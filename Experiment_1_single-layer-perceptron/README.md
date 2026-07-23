@@ -60,7 +60,7 @@ Missing values: **None**
 | single_layer_perceptron.ipynb | Complete implementation |
 | requirements.txt | Python dependencies |
 | dataset/ | Dataset used for training |
-| images/ | Generated plots (optional) |
+| plots/ | Generated plots (optional) |
 
 ---
 
@@ -168,6 +168,3 @@ Run all cells sequentially.
 
 Aishwarya Muthukumar
 
-B.Tech Artificial Intelligence & Data Science
-
-Shiv Nadar University Chennai
